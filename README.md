@@ -29,7 +29,7 @@ This AI-powered tool **empowers investors** with **quick, data-driven financial 
 
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/Financial-AI-Agent.git
+git clone https://github.com/VishalPython1594/Financial-AI-agent.git
 cd Financial-AI-Agent
 ```
 ### **2️⃣ Install dependencies**
