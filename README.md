@@ -46,7 +46,7 @@ GOOGLE_API_KEY=your_google_api_key
 
 ### **4️⃣ Run the Streamlit app**
 ```bash
-streamlit run app.py
+streamlit run ver.py
 ```
 
 ## **🏗️ Project Workflow**:
