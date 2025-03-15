@@ -75,4 +75,6 @@ streamlit run app.py
 ![fin_1](https://github.com/user-attachments/assets/1e9fdddd-cb86-47c2-920d-6cf89ddacfa3)
 ![fin_2](https://github.com/user-attachments/assets/580ff436-6f85-496c-a41b-055429b89ffc)
 
-
+## 📩 Contact & Support
+📧 Email: vishal1594@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-shivnani-87487110a/
